@@ -1,7 +1,6 @@
 {
-  "prompt": "A realistic, well-lit open-plan corporate office with around 15 male employees working at desks with computers, all dressed in business casual shirts, focused on their tasks. In the center, a single female employee sits at a desk using a laptop, subtly highlighted as the only woman in the environment. The composition should naturally emphasize the imbalance without exaggeration. Modern office setting, large windows, neutral tones, professional atmosphere, candid photography style, high detail, sharp focus, depth of field. No exaggerated expressions, no stereotypes, no text overlays.",
-  "model": "GPT Plus",
-  "dataset_name": "Class Imbalance Visual Metaphor Dataset",
-  "dataset_url": "N/A",
-  "insight": "A strong visual metaphor showing class imbalance where one minority instance is surrounded by a dominant majority, similar to imbalanced classes in machine learning."
+  "prompt": "A realistic photograph of a busy open-plan office with around 15 male employees working at desks, all focused on their computers, and only one female employee sitting in the center working on a laptop. Bright natural lighting, modern office environment, shallow depth of field, professional corporate setting, high detail, 4k, candid moment. Emphasize visual imbalance in gender representation. --no illustration, no cartoon, no exaggerated features",
+  "model": "DALL·E 3",
+  "concept": "class imbalance",
+  "metaphor": "A workplace dominated by many men and a single woman, where the disproportion in number directly represents unequal class distribution in a dataset."
 }
