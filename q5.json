@@ -1,0 +1,7 @@
+{
+  "prompt": "Create a clean, high-contrast infographic comparing India’s night-time satellite light intensity for April 2012 and April 2023 side by side. Use a dark theme with black background and glowing white/yellow light clusters to represent illumination. Label each map clearly with 'April 2012' and 'April 2023'. Add a title: 'India Night Lights as a Proxy for Economic Growth'. Emphasize increased brightness and spatial spread in 2023 to visually suggest economic expansion, urbanization, and electrification. Keep the design minimal, data-focused, and suitable for a data science portfolio. Avoid clutter, legends that are too complex, or distracting colors.",
+  "model": "DALL·E 3",  
+  "dataset_name": "VIIRS Nighttime Lights (Visible Infrared Imaging Radiometer Suite)",
+  "dataset_url": "https://figshare.com/articles/dataset/Geospatial_Nightlight_Dataset_for_Sub-districts_of_India/26095537",
+  "insight": "The spatial expansion and increased intensity of night-time lights between 2012 and 2023 suggest improved electrification and economic development across India."
+}
